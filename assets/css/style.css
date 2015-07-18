@@ -196,6 +196,7 @@ article img {
     header img {
         display: block;
         width: 90px;
+        height: 90px;
         position: absolute;
         top: 10%;
     }
